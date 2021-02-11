@@ -3,9 +3,11 @@
 This repo contains Blog admin panel code
 
 ---
+
       npm install (to install dependencies)
       npm start (to run project)
-      
+
+
 # Folder Structure
 
 ```
@@ -63,6 +65,6 @@ app
 │       └── axiosInstance.js
 │       └── utility.js
 │       └── validations.js
+│   └── index.js
 ├── package.json
-└── index.js
 ```
