@@ -3,7 +3,9 @@
 This repo contains Blog admin panel code
 
 ---
-
+      npm install (to install dependencies)
+      npm start (to run project)
+      
 # Folder Structure
 
 ```
